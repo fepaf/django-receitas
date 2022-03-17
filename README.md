@@ -1,2 +1,1 @@
-# django-receitas
-Projeto de Receitas com framework Django
+Projeto de site de receitas do curso alura para introdução ao framework django.
